@@ -8,7 +8,7 @@ const CovidMessage = ({
     <View style={HomeStyle.container}>
         <Text style={HomeStyle.title}>CovidMessage</Text>
         <Text style={HomeStyle.text}>Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0.
-Use '--warning-mode all' to show the individual deprecation warnings.</Text>
+Use  to show the individual deprecation warnings.</Text>
 <Text style={HomeStyle.learnmore}>Learn More...</Text>
     </View>
 );
